@@ -1,16 +1,29 @@
-### Hi there 👋
+## Cédric Goemaere - PhD Student at Ghent University
+- 👨‍🎓 Second-year PhD student at Ghent University, specializing in Hopfield networks.
+- 🏢 Affiliated with imec through my research group led by Prof. Thomas Demeester.
+- 📚 Funded by an FWO grant.
 
-<!--
-**cgoemaere/cgoemaere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Research Interests:
+- 🎯 Primary goal: Stabilizing Hopfield networks for improved performance on challenging tasks.
+- 💡 Interested in Deep Equilibrium Models and advanced training strategies for deep neural networks.
+- 🧠 Fascinated by the idea of translating Hopfield networks to analog electronics and applying Equilibrium Propagation.
+- 👀 Tracks developements in NLP, Predictive Coding and Active Inference
 
-Here are some ideas to get you started:
+## Technical Proficiency:
+- 🖥️ Proficient in PyTorch and Lightning ⚡
+- ⚙️ Some experience with TensorFlow and Keras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Repository:
+- 📦 Upcoming public repository "hamdeq" for a research paper on the link between HAMs and DEQs.
+
+## Personal Interests:
+- 🎬 Movie enthusiast.
+- 🏃 Passionate runner.
+- 🤝 Actively involved in Kazou vzw, a volunteering organization organizing summer camps for children.
+
+## Connect With Me:
+- Twitter: https://twitter.com/C_Goemaere
+- LinkedIn: https://www.linkedin.com/in/cedric-goemaere/
+- Email: cedric.goemaere@ugent.be
+
+Feel free to reach out to me on any of these platforms for collaboration, questions, or discussions related to my research and projects.
